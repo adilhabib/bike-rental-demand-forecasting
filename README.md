@@ -49,7 +49,7 @@ The dataset includes:
 
 ## 🧪 Business Scenario Simulation
 
-> *“On a hot weekday at 5 PM with heavy rain, expected demand drops to \~X bikes.”*
+> *“On a hot weekday at 5 PM with heavy rain, expected demand drops to \~518 bikes.”*
 
 This demonstrates a model application for **demand forecasting and bike repositioning**.
 
